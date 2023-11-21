@@ -1,5 +1,7 @@
 # Random Username Generator (rug)
 
+Yet another random username generator.
+
 ## Installation
 
 ```
@@ -7,19 +9,6 @@ go install github.com/WangYihang/rug@latest
 ```
 
 ## Usage
-
-```
-$ rug -h
-Usage:
-  rug [OPTIONS]
-
-Application Options:
-  -c, --count=   Number of usernames to generate (default: 1)
-  -v, --version  Show version
-
-Help Options:
-  -h, --help     Show this help message
-```
 
 ### Generate a single username
 
