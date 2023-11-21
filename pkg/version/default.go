@@ -1,7 +1,7 @@
 package version
 
 var (
-	Tag string = "v0.0.1-00000000"
+	Tag string = "v0.0.1-54e9572d"
 	// Version is the current version of the program
 	Version string = "0.0.1"
 	// CommitHash is the current commit hash of the program

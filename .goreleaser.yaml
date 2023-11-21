@@ -17,7 +17,7 @@ before:
 
 builds:
   - id: rug
-    main: ./cmd/rug
+    main: .
     binary: rug
     env:
       - CGO_ENABLED=0
